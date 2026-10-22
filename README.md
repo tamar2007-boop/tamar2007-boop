@@ -24,4 +24,3 @@ To continue growing as a developer, build robust and effective software solution
 ## Let's Connect
 - 📫 Feel free to explore my repositories or reach out through GitHub!
 
-אבל בכזה
